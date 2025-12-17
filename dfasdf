@@ -1,0 +1,43 @@
+[33mcommit d055fca8f7e749d2a41d624883909b9f6fb47b9c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: fbaa59e 71e6985
+Author: nk-121 <kumarneelu2656@gmail.com>
+Date:   Wed Dec 17 18:32:17 2025 +0530
+
+    resolved conflict from main
+
+[33mcommit 71e69852f5d854436a2985d931e44612389a853e[m[33m ([m[1;31morigin/newt[m[33m, [m[1;32mnewt[m[33m)[m
+Author: nk-121 <kumarneelu2656@gmail.com>
+Date:   Wed Dec 17 18:26:04 2025 +0530
+
+    this in first commit in newt
+
+[33mcommit fbaa59e74ec287984a0b2cc000aede7d181f581e[m
+Merge: d91c1e3 e17582b
+Author: nk-121 <kumarneelu2656@gmail.com>
+Date:   Wed Dec 17 18:21:20 2025 +0530
+
+    this is for testing purpose
+
+[33mcommit d91c1e3cf259d82604a9c78c7f8ddcdf4520aee3[m
+Author: nk-121 <kumarneelu2656@gmail.com>
+Date:   Wed Dec 17 18:20:43 2025 +0530
+
+    this in main
+
+[33mcommit e17582b3c5137a71454b749ee01a8e959fceae81[m[33m ([m[1;31morigin/test[m[33m, [m[1;32mtest[m[33m)[m
+Author: nk-121 <kumarneelu2656@gmail.com>
+Date:   Wed Dec 17 18:19:00 2025 +0530
+
+    changed the content in it
+
+[33mcommit 853039a7122d863aafec6f5d5247b6ed75aae4db[m
+Author: nk-121 <kumarneelu2656@gmail.com>
+Date:   Wed Dec 17 18:13:25 2025 +0530
+
+    in test branch
+
+[33mcommit 301955beeb209b84e0ad13d97f8a6c172f03b248[m
+Author: nk-121 <kumarneelu2656@gmail.com>
+Date:   Wed Dec 17 18:10:53 2025 +0530
+
+    this is my first commit
